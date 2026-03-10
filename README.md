@@ -1,3 +1,2 @@
 # TaskManagementApp
-Java Project
 Task Management Application is a Java desktop project built with Swing that helps manage employees and their assigned tasks. The application supports both simple tasks with a fixed start and end time and complex tasks made of multiple subtasks, using object-oriented design with inheritance and sealed classes. It allows adding employees and tasks, assigning tasks, attaching subtasks to complex tasks, modifying task statuses, viewing employee workload, and generating basic statistics such as overworked employees and task completion counts. The project also includes serialization, so saved data can be stored and reloaded between runs.
